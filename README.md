@@ -10,6 +10,10 @@
 <p style ="text-align:center;font-family:heiti sc;font-size:16px;font-style:italic"> 
   I am a freshman at the University of Texas at Austin, intending to major in Marketing. I grew up in Amarillo, TX with my parents, my youger siblings (Sabrina & Alex), and all sorts of animals. I love my family, friends, watching fun videos, and all-day movie marathons! </p>
   
+<h1 style="text-align: center;font-family:signpainter;">My Favorite Website</h1>
+  
+<p style="text-align: center;font-family:heiti sc;"><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Click Here</a> to go to my YouTube channel!</p>
+
 
 <h1 style="text-align: center;font-family:signpainter;">Thanks for visiting!</h1>
   
